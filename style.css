@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: small
+}
+
+h1{
+    font-size: 30px;
+    text-decoration: underline;
+}
+body{
+    background-color: rgba(255, 0, 0, 0.482);
+}
+#samay{
+    font-size: larger;
+}
+
